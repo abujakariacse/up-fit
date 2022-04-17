@@ -8,12 +8,12 @@ const Review = () => {
     return (
         <div>
             <div className='container'>
-                <h3 className='text-center text-orchid'>Client Says</h3>
+                <h3 className='text-center text-success'>Client Says</h3>
                 <div className='container row mt-4'>
                     <div className="col-lg-4 ">
                         <div className="card bg-1">
                             <div>
-                                <p className='text-center'><i className="fa-solid fa-quote-left"></i> Afran is a great . The Best Trainer I've Ever metttttttt!! <i className="fa-solid fa-quote-right"></i></p>
+                                <p className='text-center'><i className="fa-solid fa-quote-left"></i> Jakaria is so great . The Best Trainer I've Ever met!! <i className="fa-solid fa-quote-right"></i></p>
                             </div>
                             <div className='d-flex justify-content-center'>
                                 <img className='rounded-circle' src={pic1} alt="" />
@@ -24,7 +24,7 @@ const Review = () => {
                     <div className="col-lg-4 ">
                         <div className="card bg-2">
                             <div>
-                                <p className='text-center'><i className="fa-solid fa-quote-left"></i> He is lovely boy and very sweet and best trainer babeeee!! <i className="fa-solid fa-quote-right"></i></p>
+                                <p className='text-center'><i className="fa-solid fa-quote-left"></i> He is lovely boy and very sweet and best trainer. <i className="fa-solid fa-quote-right"></i></p>
                             </div>
                             <div className='d-flex justify-content-center'>
                                 <img className='rounded-circle' src={pic3} alt="" />
