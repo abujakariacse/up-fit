@@ -1,8 +1,6 @@
-# Gym Trainer
+# Up Fit
 
-## [Live Link]()
-
-Live Link: []()
+## [Live Link]: https://assignment-ten-a33e4.web.app/
 
 ### `Website Introduction`
 

@@ -10,14 +10,14 @@ const Blogs = () => {
             </div>
             <div className='container mt-5'>
                 <h4>1. Difference between authorization and authentication .?</h4>
-                <div className='row mt-5'>
-                    <div className='col-lg-6 text-center'>
+                <div className='row mt-5 justify-content-around'>
+                    <div className='col-lg-6 text-justify'>
                         <h5>Authentication</h5>
                         <p>1. Determines whether users are who they claim to be</p>
                         <p>2. Challenges the user to validate credentials (for example, through passwords, answers to security questions, or facial recognition)</p>
                         <p>3. Usually done before authorization</p>
                     </div>
-                    <div className="col-lg-6 text-center">
+                    <div className="col-lg-6 text-justify">
                         <h5>Authorization</h5>
                         <p>1. Determines what users can and cannot access</p>
                         <p>2. Verifies whether access is allowed through policies and rules</p>
