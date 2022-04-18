@@ -6,7 +6,7 @@ const Service = (props) => {
     const { name, price, description, img, id } = props.service
     const navigate = useNavigate()
     const handleDetails = (id) => {
-        navigate(`/service/${name}`)
+        navigate(`/service/${id}`)
     }
     return (
         <div>
